@@ -1,4 +1,4 @@
-# fixit
+# Fixit
 FixIt is a MERN app to book two-wheeler automotive services online. 
 
 - **Netlify Link:** https://fixit-services.netlify.app/
